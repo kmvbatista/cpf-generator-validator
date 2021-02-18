@@ -1,2 +1,2 @@
 # cpf-generator-validator
-A simple cpf generator and validator
+A simple and clean cpf generator and validator
